@@ -1,0 +1,6 @@
+{
+  "input": "packages/input/index.js",
+  "select": "packages/select/index.js",
+  "inputs": "packages/inputs/index.js",
+  "message": "packages/message/index.js"
+}
